@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css"?>
+<BMD>
+<Envelop>
+<MessageID>5Ac378b2-a658-21ea-adc1-0242ac120002</MessageID>
+<MessageType>DebitReport</MessageType>
+<Sender>5AC37984-B658-11EA-ADC1-0242AC120002</Sender>
+<Destination>BAC27A42-F658-11EA-adc1-0202AC120002</Destination>
+<CreationDateTime>2020-08-12T05:18:00+0000</CreationDateTime>
+<Signature>Signature5A</Signature>
+<ReferenceID>5Ac378b2-a658-21ea-adc1-0242ac120002</ReferenceID>
+<UserProperties>
+<key1>Value71</key1>
+<key2>Value72</key2>
+</UserProperties>
+</Envelop>
+<Payload>IBKL0000001</Payload>
+</BMD>
